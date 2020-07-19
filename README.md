@@ -1,2 +1,2 @@
 # machine-learning
-2020年暑假实习小项目
+基于Python的电商产品评论数据情感分析
